@@ -2,7 +2,7 @@ CPAN_AUTHOR=grommel
 inherit perl
 
 NAME="perl-Math-Round"
-VERSION=0.06
+VERSION=0.07
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl extension for rounding numbers"

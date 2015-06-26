@@ -1,0 +1,12 @@
+CPAN_AUTHOR=grommel
+inherit perl
+
+NAME="perl-Math-Round"
+VERSION=0.06
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl extension for rounding numbers"
+DESCRIPTION="Math::Round supplies functions to round numbers, both positive and
+negative, in various ways."
+
+ARCH=noarch
